@@ -63,7 +63,7 @@
                     <div class="contact_from_area mb-100 clearfix">
                         <!-- Contact Heading -->
                         <div class="contact-heading">
-                            <h4>Seja Bem-Vindo à FACIM DIGITAL</h4>
+                            <h4>Seja Bem-Vindo à Fikani DIGITAL</h4>
                             <p>Ao inscrever-se a Feira Internacional de Maputo, manter-se-á mais perto das nossas actividades e
                                 eventos, assim como poderá ter diversas oportunidades de formação dentro e fora de
                                 Moçambique. Ligar-se a nós ficou mais fácil através dessa janela.</p>

@@ -27,28 +27,9 @@
     <!-- 
     check if the user is logging in for the first time -->
 
-    <?php
-
-
-    // session_start();
-
-    // $timeout = 7200; 
-
-    // if(isset($_SESSION['timeout'])) {
-    //     $duracao = time() - (int) $_SESSION['timeout'];
-    //     if($duracao > $timeout) {
-    //         session_start();
-    //         session_destroy();
-    //         session_unset();
-    //         echo "<script type='text/javascript'>location.href='intro.php'</script>";
-    //     }
-    // }else{
-    //     echo "<script type='text/javascript'>location.href='intro.php'</script>";
-    // }
-    ?>
 
     <!-- Header Area Start -->
-    <!-- <header class="header-area">
+    <header class="header-area">
         <div class="classy-nav-container breakpoint-off " style="background:#414c52">
             <div class="container">
                
@@ -99,14 +80,14 @@
 
                             
                             <a href="perfil/profile.html" class="btn confer-btn-white mt-3 mt-lg-0 ml-3 ml-lg-5"
-                                id="user-name">Usuário</a>
+                                id="user-name">Perfil</a>
                         </div>
                         
                     </div>
                 </nav>
             </div>
         </div>
-    </header> -->
+    </header>
     <!-- Header Area End -->
 
     <!-- Welcome Area Start -->
@@ -281,7 +262,7 @@
 
 
                             <!-- Tab Content SEGUNDA-->
-                            <div class="tab-content" id="conferScheduleTabContent">
+                            <div class="tab-content" id="conferScheduleTabContent" style="backgroud:#009fe3">
                                 <div class="tab-pane fade show active" id="step-one" role="tabpanel"
                                     aria-labelledby="monday-tab">
                                     <!-- Single Tab Content -->
@@ -1331,7 +1312,8 @@
             firebase.database().ref('users').on('value', function(snapshot) {
                 snapshot.forEach(function(item) {
 
-                    if (item.val().userId !== null && user.uid !== null) {
+                    if (item.val().userId !== null && item.val().userId !== undefined ) {
+        
                         var db_uid = item.val().userId.toString().trim();
                         var user_uid = user.uid.toString().trim();
 
@@ -1354,7 +1336,7 @@
             });
 
         } else {
-            location.href = 'intro.php';
+            location.href = 'welcome.php';
         }
 
     });
