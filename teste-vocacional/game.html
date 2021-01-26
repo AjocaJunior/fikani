@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Teste de Orientação Vocacional e Profissional</title>
+
+  <!-- Favicon -->
+  <link rel="icon" href="../img/educa/logo.png">
+  <link href="http://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" href="../css/style.css">
+
+<link rel="stylesheet" href="../css/stepform.css">
+  <link rel="stylesheet" href="app.css" />
+  <link rel="stylesheet" href="game.css" />
+</head>
+
+<body>
+  <div id="preloader">
+    <div class="loader"></div>
+</div>
+
+
+
+
+  <div class="container-lg">
+    <!-- <div id="loader"></div> -->
+    
+    <div id="game" class="justify-center">
+      <div id="hud">
+        <div id="hud-item">
+          <p id="progressText" class="hud-prefix">
+            Question
+          </p>
+          <div id="progressBar">
+            <div id="progressBarFull"></div>
+          </div>
+        </div>
+        <div id="hud-item">
+          <!-- <img class="hub-main" src="../img/educa/logo.png" alt=""> -->
+          <h1 class="hud-main-text" id="score" hidden>
+              0
+            </h1>
+            <h3 class="hud-main-text" id="areaSec">
+              
+            </h3>
+        </div>
+      </div>
+      <h2 id="question"></h2>
+      <div class="row">
+        <div class="choice-container col-sm-2">
+
+          <p class="choice-text" data-number="1"></p>
+        </div>
+        <div class="choice-container col-sm-3">
+
+          <p class="choice-text" data-number="2"></p>
+        </div>
+        <div class="choice-container col-sm-3">
+
+          <p class="choice-text" data-number="3"></p>
+        </div>
+        <div class="choice-container col-sm-3 ">
+
+    <p class="choice-text" data-number="4"></p>
+
+        
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script src="game.js"></script>
+</body>
+
+</html>

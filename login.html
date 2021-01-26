@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Title -->
+    <title>FACIM - LOGIN</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="./img/logos/facimicon.png">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <!-- Preloader -->
+
+    <!-- /Preloader -->
+
+    <!-- Header Area Start -->
+
+    <!-- Header Area End -->
+
+    <!-- Breadcrumb Area Start -->
+    <section class="breadcrumb-area bg-img jarallax"
+        style="background-image: url(img/bg-img/fundosimples.png); width:150%; height: 50px;">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12">
+                    <div class="breadcrumb-content">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Breadcrumb Area End -->
+
+    <!-- Contact Us Area Start -->
+    <section class="contact--us-area section-padding-100-0">
+        <div class="container">
+            <div class="row">
+                <!-- Contact Us Thumb -->
+                <div class="col-12 col-lg-6">
+                    <div class="contact-us-thumb mb-100">
+                        <img src="img/bg-img/businessmanfacim.jpg" alt="">
+                    </div>
+                </div>
+
+
+                <!-- Contact Form -->
+                <div class="col-12 col-lg-6">
+                    <div class="contact_from_area mb-100 clearfix">
+                        <!-- Contact Heading -->
+                        <div class="contact-heading">
+                            <h4>Login</h4>
+                            <p></p>
+                        </div>
+                        <div class="contact_form">
+                            <form>
+                                <div class="contact_input_area">
+                                    <div class="row">
+
+                                        <!-- Form Group -->
+                                        <div class="col-12 col-lg-12">
+                                            <div class="form-group">
+                                                <input type="email" class="form-control mb-30" name="email" id="email"
+                                                    placeholder="E-mail" required>
+                                            </div>
+                                        </div>
+                                        <!-- Form Group -->
+                                        <div class="col-12 col-lg-12">
+                                            <div class="form-group">
+                                                <input type="password" class="form-control mb-30" name="password"
+                                                    id="password" placeholder="Palavra-passe">
+                                            </div>
+                                        </div>
+                                        <!-- Form Group -->
+
+                                        <!-- Button -->
+
+
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+
+                        <div class="row d-flex justify-content-center" style="margin: 2px;">
+                            <button onclick="login()" type="register" name="register" class="btn  btn-lg btn-block"
+                                style="background-color: #f98f29; color:white">Entrar <i
+                                    class="zmdi zmdi-long-arrow-right"></i></button>
+
+                        </div>
+
+
+                        <div class="row d-flex justify-content-center " style="margin: 2px;">
+                            <p class="text-info">Não tens uma conta?</p>
+                            <button onclick="window.location.href='intro.php'" class="btn btn-lg btn-user btn-block"
+                                style="background-color:  #414c52; color: white;">Registar</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Contact Us Area End -->
+
+
+
+
+    <!-- Footer Area End -->
+
+    <!-- **** All JS Files ***** -->
+    <!-- jQuery 2.2.4 -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Popper -->
+    <script src="js/popper.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- All Plugins -->
+    <script src="js/confer.bundle.js"></script>
+    <!-- Active -->
+    <script src="js/default-assets/active.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.2.0/firebase.js"></script>
+    <script src="js/db/app.js"></script>
+    <script src="js/db/real-time-database.js"></script>
+
+    <script>
+
+        function login() {
+            firebase.auth().signInWithEmailAndPassword(email.value, password.value).then(function (result) {
+
+                window.location = "index.php?uid=" + result.user.uid;
+
+
+            }).catch(function (error) {
+                // Handle Errors here.
+                var errorCode = error.code;
+                var errorMessage = error.message;
+                // ...
+
+                alert(errorMessage);
+                console.log("Failure!")
+            });
+
+
+
+        }
+
+    </script>
+</body>
+
+</html>

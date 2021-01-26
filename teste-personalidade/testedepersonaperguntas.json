@@ -1,0 +1,722 @@
+[
+  {
+    "question": "É capaz de mentir se isso o(a) ajuda a sair de uma má situação? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "Tem estado pouco à vontade junto de pessoas mais cultas?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Procura estar sempre ocupado, mesmo nos momentos de descanso?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "Tem dificuldade em alegrar um grupo pouco animado ou triste?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 4
+  },
+  {
+    "question": "Tem tendência para desmaiar ao ver sangue?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 5
+  },
+  {
+    "question": "Acha que é mais seguro não ter confiança nos outros?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 6
+  },
+  {
+    "question": "Sente-se triste e infeliz?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 7
+  },
+  {
+    "question": "Dói-lhe com muita frequência a cabeça? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 8
+  },
+  {
+    "question": "Ouve, por Vezes, ruídos estranhos sem saber de onde vêm? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 9
+  },
+  {
+    "question": "É capaz de mentir com o fim de obter um sucesso?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "Tem estado pouco à vontade na presença de pessoas importantes?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Começa sempre a trabalhar com rapidez?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "Prefere estar só nos momentos de tensão emocional?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 4
+  },
+  {
+    "question": "Sente-se preocupado(a) ou angustiado(a) perante uma tarefa nova ou uma situação imprevista?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 5
+  },
+  {
+    "question": "Pensa que várias pessoas o(a) querem prejudicar?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 6
+  },
+  {
+    "question": "Sente que o futuro apresenta-se sem esperança para si?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 7
+  },
+  {
+    "question": "Já perdeu os sentidos várias vezes? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 8
+  },
+  {
+    "question": "Parece-lhe que o seu espírito e os seus pensamentos são controlados por outras pessoas?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 9
+  },
+  {
+    "question": "Por vezes diz mal dos outros e critica-os?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "É uma pessoa tímida?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Procura executar pontualmente as suas obrigações?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "Quando toma uma decisão, prefere tomá-la sozinho(a), não pedindo conselhos a outras pessoas?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 4
+  },
+  {
+    "question": "É facilmente impressionável perante situações comovedoras?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 5
+  },
+  {
+    "question": "Tem muitas vezes a impressão de que estão a dizer mal de si ou criticá-lo (a)?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 6
+  },
+  {
+    "question": "Tem com frequência ideias negativas em que pensa na morte como refúgio? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 7
+  },
+  {
+    "question": "Já teve alguma crise em que era incapaz de controlar os seus movimentos ou as suas palavras?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 8
+  },
+  {
+    "question": "Tem por vezes a sensação de que as coisas que o(a) rodeiam não são reais?  ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 9
+  },
+  {
+    "question": "Por vezes, deixa para o dia seguinte o que poderia ter feito no dia anterior?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "Aborrece-se quando alguém está a ver o seu trabalho, mesmo sabendo que o está a fazer bem?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Habitualmente trabalha com vigor em vista de um futuro a longo prazo?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "Gosta mais de leitura que de convívio?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 4
+  },
+  {
+    "question": "Sente-se preocupado(a) ou mesmo receoso(a) nos ambientes desconhecidos?  ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 5
+  },
+  {
+    "question": "Tem muitas vezes a impressão de que o(a) seguem na rua ou que as pessoas reparam demasiado em si?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 6
+  },
+  {
+    "question": "Passa de grande alegria a períodos de grandes tristezas mesmo sem ter motivos?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 7
+  },
+  {
+    "question": "Reconhece que é irritável e teimoso(a)?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 8
+  },
+  {
+    "question": "Acha que alguém o(a) persegue sem razão e não consegue evitar as pessoas que o(a) seguem por todo lado?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 9
+  },
+  {
+    "question": "Já alguma vez sentiu medo? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "Custa-lha dirigir a palavra a uma pessoa desconhecida?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Consegue sempre levar até ao fim as tarefas que começa?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "Habitualmente, preferes estar só do que na companhia das outras pessoas?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 4
+  },
+  {
+    "question": "Tem por vezes a impressão de que algo de terrível lhe vai acontecer ou aos seus familiares?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 5
+  },
+  {
+    "question": "Gosta, muitas vezes, de passar algumas horas entregue aos seus pensamentos, evitando a companhia das outras pessoas? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 6
+  },
+  {
+    "question": "Tem a impressão de nunca ter sorte na vida?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 7
+  },
+  {
+    "question": "Sente por vezes desejos de implicar com os outros e é com dificuldade que se controla?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 8
+  },
+  {
+    "question": "Sente-se vítima de alguma combinação ou perseguição que visa a toda custo fazer lhe mal?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 9
+  },
+  {
+    "question": "Já alguma vez chegou tarde a um encontro?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "Perturba-se quando cumprimenta ou se dirige a alguém por engano?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "É capaz de trabalhar com paciência, mesmo numa coisa que não gosta? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "Prefere estar calado e ouvir os outros numa reunião? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 4
+  },
+  {
+    "question": "Preocupa-se muito com a sua saúde?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 5
+  },
+  {
+    "question": "Acha que tem tantas ideias originais e surpreendentes que ultrapassam o limite da vulgaridade?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 6
+  },
+  {
+    "question": "Tem a ideia de que é incapaz de vencer as constantes dificuldades da vida?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 7
+  },
+  {
+    "question": "Sente muitas vezes o desejo incontrolado de insultar alguém?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 8
+  },
+  {
+    "question": "Sem o saber explicar, já lhe tem sucedido ouvir vozes agressivas ou insultuosas? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 9
+  },
+  {
+    "question": "Já alguma vez foi inconveniente ou mal-educado(a) para alguém?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "É-lhe difícil expor um assunto numa reunião? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Muitas vezes trabalha sem ter necessidade, só por prazer de estar activo(a) e ocupado(a)?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "Quando tem problemas evita contá-los às outras pessoas?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 4
+  },
+  {
+    "question": "O receio de enfrentar uma situação difícil leva-o(a) por vezes a sentir-se doente? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 5
+  },
+  {
+    "question": "É frio(a) e pouco afectuoso(a) quando cumprimenta as outras pessoas?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 6
+  },
+  {
+    "question": "Está convencido(a) de que é inútil e ninguém precisa de si? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 7
+  },
+  {
+    "question": "Por vezes tem tonturas que o fazem perder o equilíbrio?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 8
+  },
+  {
+    "question": "Já lhe tem sucedido ver pessoas, animais ou lugares estranho que outros junto de si, não vêem?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 9
+  },
+  {
+    "question": "Já lhe tem sucedido revelar segredos íntimos de pessoas amigas? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "Preocupa-se muitas vezes com sentimentos de inferioridades?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Tem facilidade em participar ou cooperar activamente em tarefas para as quais seja solicitado(a)?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "A excessiva animação dos outros aborrece-o(a)? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 4
+  },
+  {
+    "question": "Sente que, com frequência, tem falhas de memória?   ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 5
+  },
+  {
+    "question": "É indiferente às alegrias ou tristezas das pessoas que o rodeiam? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 6
+  },
+  {
+    "question": "Pensa que a vida é um constante sofrimento e que não vala a pena viver?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 7
+  },
+  {
+    "question": "Já teve “ataques de nervos” em que caiu para o chão?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 8
+  },
+  {
+    "question": "Acha que outras pessoas se apoderam das suas ideias ou até dos seus pensamentos? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 9  
+  },
+  {
+    "question": "Já ficou de manhã na cama, alegando estar doente, para se desculpar? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "Falta-lhe confiança em si?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Faz, com frequência, projectos com o fim de melhorar a sua qualidade de trabalho? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "Parecem-lhe mais simpáticas as pessoas pouco faladoras?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 4
+  },
+  {
+    "question": "Sente-se muitas vezes fatigado, mesmo sem ter trabalhado demasiado?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 5
+  },
+  {
+    "question": "Age mais de acordo com a sua razão do que os seus sentimentos? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 6
+  },
+  {
+    "question": "Sente-se cansado(a), esgotado(a), incapaz de realizar tarefas ainda que simples?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 7
+  },
+  {
+    "question": "Tem dificuldades em se libertar duma ideia ou de um pensamento que o(a) irritou? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 8
+  },
+  {
+    "question": "Acha que possui uma “forças oculta” ou “poderes” que os outros não têm?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 9
+  },
+  {
+    "question": "Já alguma vez na sua vida se apoderou de um objecto que não lhe pertencia? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "É mais frequente calar-se e ficar prejudicado(a) num restaurante do que reclamar por um prato mal feito?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Toma com frequência a iniciativa para a execução de novas tarefas?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "É habitualmente calado(a) e pouco expansivo(a)?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 4
+  },
+  {
+    "question": "Tem com frequência uma espécie de sobressaltos ou angústias?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 5
+  },
+  {
+    "question": "Acusam-no(a) de ser desleixado(a) com o seu vestuário ou pouco arrumado com as suas coisas?   ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 6
+  },
+  {
+    "question": "Sente-se incapaz de prosseguir com o seu trabalho?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 7
+  },
+  {
+    "question": "Qualquer coisa que sucede a sua volta e com o qual não concorda provoca-lhe excitação e até descontrolo?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 8
+  },
+  {
+    "question": "Já lhe sucedeu que o seu pensamento corria velozmente e as ideias eram tantas que era impossível controlá-las?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo": 9
+  }
+]

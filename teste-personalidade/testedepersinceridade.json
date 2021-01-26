@@ -1,0 +1,162 @@
+[
+ 
+  {
+    "question": "É capaz de mentir se isso o(a) ajuda a sair de uma má situação? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo":1
+  },
+  {
+    "question": "É capaz de mentir com o fim de obter um sucesso?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez"
+    ,"answer": 1,
+    "grupo":1
+  },
+ 
+  {
+    "question": "Por vezes diz mal dos outros e critica-os?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez"
+    ,"answer": 1,
+    "grupo":1
+  },
+  
+  {
+    "question": "Por vezes, deixa para o dia seguinte o que poderia ter feito no dia anterior?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez"
+    ,"answer": 1,
+    "grupo":1
+  },
+  
+  {
+    "question": "Já alguma vez sentiu medo? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez"
+    ,"answer": 1,
+    "grupo":1
+  },
+  
+  {
+    "question": "Já alguma vez chegou tarde a um encontro?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez"
+    ,"answer": 1,
+    "grupo":1
+  },
+  
+  {
+    "question": "Já alguma vez foi inconveniente ou mal-educado(a) para alguém?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez"
+    ,"answer": 1,
+    "grupo":1
+  },
+  
+  {
+    "question": "Já lhe tem sucedido revelar segredos íntimos de pessoas amigas? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez"
+    ,"answer": 1,
+    "grupo":1
+  },
+  
+  {
+    "question": "Já ficou de manhã na cama, alegando estar doente, para se desculpar? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez"
+    ,"answer": 1,
+    "grupo":1
+  },
+  
+  {
+    "question": "Já alguma vez na sua vida se apoderou de um objecto que não lhe pertencia? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez"
+    ,"answer": 1,
+    "grupo":1
+  },{
+    "question": "Tem estado pouco à vontade junto de pessoas mais cultas?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "grupo":2
+  },{
+    "question": "Tem estado pouco à vontade na presença de pessoas importantes?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo":2
+  },{
+    "question": "É uma pessoa tímida?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo":2
+  },{
+    "question": "Aborrece-se quando alguém está a ver o seu trabalho, mesmo sabendo que o está a fazer bem?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo":2
+  }, {
+    "question": "Custa-lha dirigir a palavra a uma pessoa desconhecida?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "grupo":2
+  }, {
+    "question": "Perturba-se quando cumprimenta ou se dirige a alguém por engano?",
+    "choice1": "Gosto ",
+    "choice2": "Indiferente ou dúvida ",
+    "choice3": "Não Gosto ",
+    "choice4": "Não Conheço",
+    "answer": 1,
+    "grupo":2
+  },  {
+    "question": "É-lhe difícil expor um assunto numa reunião? ",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo":2
+  },{
+    "question": "Preocupa-se muitas vezes com sentimentos de inferioridades?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo":2
+  },  {
+    "question": "Falta-lhe confiança em si?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo":2
+  },{
+    "question": "É mais frequente calar-se e ficar prejudicado(a) num restaurante do que reclamar por um prato mal feito?",
+    "choice1": "Sim",
+    "choice2": "Não",
+    "choice3": "Talvez",
+    "answer": 1,
+    "grupo":2
+  }
+
+]
+  

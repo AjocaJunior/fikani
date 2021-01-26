@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Investigar e fazer experiências no campo da mecânica, da óptica, da física nuclear, etc.",
+    "choice1": "Gosto",
+    "choice2": "Indiferente ou dúvida",
+    "choice3": "Não Gosto",
+    "choice4": "Não Conheço",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "Estudar a composição e estrutura da atmosfera e os astros (plantas, satélites, etc.)    ",
+    "choice1": "Gosto ",
+    "choice2": "Indiferente ou dúvida ",
+    "choice3": "Não Gosto ",
+    "choice4": "Não Conheço ",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": " Trabalhar como analista clínico ",
+    "choice1": "Gosto ",
+    "choice2": "Indiferente ou dúvida ",
+    "choice3": "Não Gosto ",
+    "choice4": "Não Conheço",
+    "answer": 1,
+    "grupo": 1
+  },
+  {
+    "question": "Projectar e dirigir a construção de edifícios. Preparar os planos para edíficios ou zonas completas das cidades (bairros, parques, zonas comerciais, etc) ",
+    "choice1": "Gosto",
+    "choice2": "Indiferente ou dúvida",
+    "choice3": "Não Gosto",
+    "choice4": "Não Conheço",
+    "answer": 1
+    ,"grupo":17
+  },
+  {
+    "question": "Ser arquitecto",
+    "choice1": "Gosto ",
+    "choice2": "Indiferente ou dúvida ",
+    "choice3": "Não Gosto ",
+    "choice4": "Não Conheço ",
+    "answer": 1
+    ,"grupo":17
+  },
+  {
+    "question": "Diagnosticar e tratar doenças do corpo humano ",
+    "choice1": "Gosto ",
+    "choice2": "Indiferente ou dúvida ",
+    "choice3": "Não Gosto ",
+    "choice4": "Não Conheço",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Ser médico",
+    "choice1": "Gosto",
+    "choice2": "Indiferente ou dúvida",
+    "choice3": "Não Gosto",
+    "choice4": "Não Conheço",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Ser farmacêutico ",
+    "choice1": "Gosto ",
+    "choice2": "Indiferente ou dúvida ",
+    "choice3": "Não Gosto ",
+    "choice4": "Não Conheço ",
+    "answer": 1,
+    "grupo": 2
+  },
+  {
+    "question": "Investigar as origens da espécie humana consultando restos antigos. Projectar escavações para descobrir vestígios do passado ",
+    "choice1": "Gosto ",
+    "choice2": "Indiferente ou dúvida ",
+    "choice3": "Não Gosto ",
+    "choice4": "Não Conheço",
+    "answer": 1,
+    "grupo": 3
+  },
+  {
+    "question": "Exercer a profissião de antropólogo ",
+    "choice1": "Gosto",
+    "choice2": "Indiferente ou dúvida",
+    "choice3": "Não Gosto",
+    "choice4": "Não Conheço",
+    "answer": 1,
+    "grupo": 3
+  }
+]
